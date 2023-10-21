@@ -18,4 +18,4 @@ const sumAll = function (min, max) {
   return sum;
 };
 
-module.exports = sumAll;
+module.exports = sumAll;exx
